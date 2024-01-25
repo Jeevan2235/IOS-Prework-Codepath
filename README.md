@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 - [*] Users are see a screen with three labels and a button
 - [*] Tapping the button changes the screen color to a random color
-- ![](https://imgur.com/a/qjNU0I2.gif)
+ ![](https://imgur.com/a/qjNU0I2.gif)
  
 ## Video Walkthrough
 
@@ -22,6 +22,23 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+1. WhatsApp:
+
+End-to-End Encryption: WhatsApp offers end-to-end encryption for messages, ensuring privacy and security.
+Media Sharing: Users can easily share various types of media, including photos, videos, and documents, enhancing communication.
+
+2. Spotify:
+
+Personalized Recommendations: Spotify uses algorithms to provide personalized music recommendations based on user preferences.
+Offline Listening: Users can download music for offline listening, allowing them to enjoy their favorite tracks without an internet connection.
+
+3. Evernote:
+
+Note Organization: Evernote excels in organizing notes, allowing users to categorize and tag their information efficiently.
+Cross-Platform Syncing: Evernote seamlessly syncs notes across various devices, enabling users to access their information from anywhere.
+
+
+App Idea I like to build: Introducing "GreenThumb," an app that guides users in cultivating indoor gardens. Features include a virtual garden planner, personalized care reminders, a social platform for sharing tips, and a plant identification tool. GreenThumb aims to make indoor gardening accessible, educational, and community-driven.
 ## Notes
 
 Describe any challenges encountered while building the app.
