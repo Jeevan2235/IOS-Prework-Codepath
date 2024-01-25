@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 - [*] Users are see a screen with three labels and a button
 - [*] Tapping the button changes the screen color to a random color
- ![](https://imgur.com/a/qjNU0I2.gif)
+- ![](https://imgur.com/a/qjNU0I2.gif) .
  
 ## Video Walkthrough
 
@@ -41,7 +41,7 @@ Cross-Platform Syncing: Evernote seamlessly syncs notes across various devices, 
 App Idea I like to build: Introducing "GreenThumb," an app that guides users in cultivating indoor gardens. Features include a virtual garden planner, personalized care reminders, a social platform for sharing tips, and a plant identification tool. GreenThumb aims to make indoor gardening accessible, educational, and community-driven.
 ## Notes
 
-Describe any challenges encountered while building the app.
+At first I had some problems finding storyboard and dragging the button to inside the view controller class. 
 
 ## License
 
