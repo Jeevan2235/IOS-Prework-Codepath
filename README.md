@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 - [*] Users are see a screen with three labels and a button
 - [*] Tapping the button changes the screen color to a random color
 ![](https://i.imgur.com/JL1snRo.gif)
-- ![](https://imgur.com/a/qjNU0I2.gif) .
+![](https://i.imgur.com/a/qjNU0I2.gif)
  
 ## Video Walkthrough
 
