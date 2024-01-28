@@ -15,16 +15,16 @@ class ViewController: UIViewController {
     }
 
     @IBAction func changeBackgroundColor(_ sender: UIButton) {
-        let randomColor = generateRandomColor()
+        let randomColor = changeColor()
         view.backgroundColor = randomColor
     }
 
-    func generateRandomColor() -> UIColor {
+    func changeColor() -> UIColor {
         let red = CGFloat.random(in: 0...1)
         let green = CGFloat.random(in: 0...1)
         let blue = CGFloat.random(in: 0...1)
-        let alpha = CGFloat.random(in: 0.5...1.0)
+    
         
-        return UIColor(red: red, green: green, blue: blue, alpha: alpha)
+        return UIColor(red: red, green: green, blue: blue, alpha: 0.5)
     }
 }
